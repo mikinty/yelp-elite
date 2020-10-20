@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Rookie",
+    "description": "Ooh... We like the cut of your jib! Welcome to the club, Rookie! Don't think that's the end of it though - these first couple check-ins are just the beginning. There's a big world out there, so keep checking in... there are badges to be had!",
+    "requirement": "Check-in 20 times."
+  },
+  {
+    "name": "Pro",
+    "description": "Outstanding! Kick those Rookie days to the curb - with 50 check-ins, you're a Pro now, baby! But don't rest on your laurels. There's more in store for those with the cojones. Think you can reach the next level of check-in greatness? Godspeed, yelper, and don't think we're not at least a little proud of you. We are.",
+    "requirement": "Check-in 50 times."
+  },
+  {
+    "name": "Master",
+    "description": "Would you feel this iron grip handshake! With 200 check-ins in the past couple months, that's the thumb-strength of a bona fide check-in Master! The question remains though: do you have what it takes to conquer that elusive and exclusive next level? Few do. Good luck, my friend, and may the Yelp be with you.",
+    "requirement": "Check-in 200 times."
+  },
+  {
+    "name": "Yelpus Maximus",
+    "description": "Huzzah! Your hundreds of check-ins have earned you what all those Rookies, Pros and Masters have sought - the ultimate badge, Yelpus Maximus. Welcome to this esteemed crew. You are truly an inspiration to all the folks out there checking in. Now go treat yourself to something nice. You deserve it, champ!",
+    "requirement": "Check-in approximately 1000 times. The exact number seems to change for each user based on their frequency. "
+  },
+  {
+    "name": "Bacchus",
+    "description": "You earned the Baccus badge! in vino veritas. You certainly know your pinots.",
+    "requirement": "Check-in to 6 wineries or bars."
+  },
+  {
+    "name": "Barfly",
+    "description": "Proust, compadre! You just earned the Barfly badge. Whether it's a highball or bottom shelf, you know just how to uncork this town. Now if you'll stop photo bombing the background of people's pictures, they'd appreciate it.",
+    "requirement": "Check-in to 3 bars."
+  },
+  {
+    "name": "Bawler",
+    "description": "It takes a certain caliber of person to smile all day through someone else's bodily ejections. Your check-ins at children's playgrounds & businesses prove you manage to pull off parenthood without 'accidentally' leaving poop perpetrator at AYSO practice forever one afternoon, so we're giving you this badge. P.S. You have puke on your shoulder",
+    "requirement": "Check-in to 3 playgrounds or day-cares."
+  },
+  {
+    "name": "Big Night",
+    "description": "You know how you have those epic nights filled with good food and drink and assorted revelry? You're having one.",
+    "requirement": "Check-in to 7 bars and/or restaurants in one night."
+  },
+  {
+    "name": "The Breakfast Club",
+    "description": "What’s that smell? Victory, and waffles.. and possibly your dining pal's morning breath. Take a good strong whiff, yelper, this is your most important badge of the day.",
+    "requirement": "TODO"
+  },
+  {
+    "name": "Brewed Awakening",
+    "description": "You earned the Brewed Awakening badge! having a steaming cup of java before 8am makes you quite the coffee achiever!",
+    "requirement": "Check-in to 8 coffee shops before 8AM"
+  },
+  {
+    "name": "Carrot Top",
+    "description": "Veggin' out never felt so good! Be it earthen or oceanic, your diet san animalia deserves proper decor. We hope you brought your best molars and bicuspids, brothers and sisters. it's time to pump up the yams.",
+    "requirement": "Check-in to 3 vegetarian restaurants."
+  },
+  {
+    "name": "Conehead",
+    "description": "Woo! You earned the Conehead badge! You clearly scream for ice cream.",
+    "requirement": "TODO"
+  },
+  {
+    "name": "Crosstown Magic",
+    "description": "Wow, from one 'hood to the next all in one day, you sure know how to get around!",
+    "requirement": "Checking in across town in one day. Seems like you need 3 check-ins at places far apart in a city/town in one day."
+  },
+  {
+    "name": "Daredevil",
+    "description": "You don’t just grab life by the short hairs: you grip, twist and pull like your survival rests on it. Forget Steven Seagal. Your interest in extreme sports & activities means you’re like Steven Ho meets Harry Houdini, playing Russian roulette with Phil Spector’s haircut. Vaya con dios, brah… vaya con dios.",
+    "requirement": "TODO"
+  },
+  {
+    "name": "Domestic",
+    "description": "What some see as a chore, you see as a score! Need it be laundered or grocered, gassed up, packed up or bought. You get it done. And for that kind of foxy moxy a badge... web dub thee: Domestic!",
+    "requirement": "3 check-ins at 3 separate domestic [Dry Cleaning/Groceries/Hardware] places."
+  },
+  {
+    "name": "Footloose",
+    "description": "It's a fact: Nobody can do the shing-a-ling like you do. The skate? No no no. The boogaloo? No no no no no no no. But enough small talk already. We thought this was a party. Let's dance!!!",
+    "requirement": "Check-in to 3 dance clubs."
+  },
+  {
+    "name": "Framed",
+    "description": "Your magnificence. Ponder it. Your visits to art-related businesses prove you have a sharp eye which rivals that of 50 eagles.",
+    "requirement": "Check-in to 3 arts & crafts shops."
+  },
+  {
+    "name": "Geek",
+    "description": "It's a fact: Nobody can do the shing-a-ling like you do. The skate? No no no. The boogaloo? No no no no no no no. But enough small talk already. We thought this was a party. Let's dance!!!",
+    "requirement": "Check-in to 3 dance clubs."
+  },
+  {
+    "name": "Glamorama",
+    "description": "You earned the Glamorama badge@ HOT. Looking this good is not just an art, it's an extension of your personality.",
+    "requirement": "Check-in to 3 beauty salons, spas, yoga, beauty, tanning, etc."
+  },
+  {
+    "name": "Global Domination",
+    "description": "Whether it's coq au vin, pad see sew, bratwurst or some other worldly vittle, your taste buds are ready to conquer them!",
+    "requirement": "Check-in to 6 restaurants of international cuisine. They do not have to all be distinct cuisines."
+  },
+  {
+    "name": "Globetrotter",
+    "description": "You earned the Globetrotter badge! Your yelping knows no boundaries.",
+    "requirement": "Check-in to 5 airports"
+  },
+  {
+    "name": "Gym Junkie",
+    "description": "Pump. Stretch. Sweat. Must. Not. Miss. A. Workout. All these check-ins definitely earned you a Gym Junkie badge.",
+    "requirement": "Check-in to 4 fitness places/gyms."
+  },
+  {
+    "name": "Happy Hour Power",
+    "description": "There's a time in every person's life when they achieve what no one can take from them... and that time is usually around quittin' time. You, like all savvy locals, know this isn't budget boozin'. It's a celebration - because life is solid with liquid revelry.",
+    "requirement": "Check-in 5 times at 5 different establishments, between the hours of 5-7pm."
+  },
+  {
+    "name": "High Roller",
+    "description": "Feeling spendy, Yelpy Warbucks? We present to you a badge to celebrate your wealth of fiscal accomplishments. And a congratulatory dinner in your honor, you request? Alright, but you're buying.",
+    "requirement": "Check-in to a $$$$ restaurant."
+  },
+  {
+    "name": "Instigator",
+    "description": "You've just earned the Instigator badge! Ain't no bull (horn) about it, when you check-in somewhere, your friends follow.",
+    "requirement": "Checking in first to a place and three friends doing the same within half an hour."
+  },
+  {
+    "name": "Japan",
+    "description": "Congratulations! You're in Japan! Where sumo is second only to slurping ramen as a national pastime. Use the Yelp mobile app to find your favorite local shops, boutiques, and businesses. And don't forget to check in to earn more badges.",
+    "requirement": "Check-in to a place in Japan."
+  },
+  {
+    "name": "Maverick",
+    "description": "Because ratings are overrated, because you go your own way - and because you'll never lose that lovin' feeling for your city's rugged good looks. You're dangerous. Yeah, dangerous... and there's a badge for that.",
+    "requirement": "Check-in to 3 places with reviews that average 2 stars or less."
+  },
+  {
+    "name": "Meathead",
+    "description": "Congratulations, carnivorous commando of this fair city. You've earned the Meathead badge! No bones about it. You kick it at the top of the food chain, where you don't have any neighbors... anymore.",
+    "requirement": "Check-in to 3 steakhouses."
+  },
+  {
+    "name": "Mexi-Can",
+    "description": "You earned the Mexi-Can badge! Just an FYI: a burrito is not a food group.",
+    "requirement": "Check-in to 6 Mexican restaurants."
+  },
+  {
+    "name": "Mobile Streaker",
+    "description": "Oh dear, we are so scandalized... by your unwavering commitment to check-in every day! You should know this badge isn't big enough to conceal your well-endowed list of check-ins.",
+    "requirement": "Checking in every day for a week."
+  },
+  {
+    "name": "Nighthawk",
+    "description": "Cheers to a seasoned professional of all things nocturnal (AM's the new PM anyway, right?). So, congratulations, sport! You're now clutching the Nighthawk badge.",
+    "requirement": "Check-in to 6 places between midnight and 3AM."
+  },
+  {
+    "name": "Sharing is Caring",
+    "description": "We know they lack your local knowledge, but you let your friends tag along and check-in with you. Sharing choice picks out of your black book of recommendations earns you massive karma points and this badge!",
+    "requirement": "Check-in close to your friend?"
+  },
+  {
+    "name": "Singapore",
+    "description": "Congratulations! You're in Singapore, a country whose two national pastimes are eating and talking about eating. When you're not stuffing your face, remember to keep checking in on Yelp to earn more badges.",
+    "requirement": "Check-in to a place in Singapore."
+  },
+  {
+    "name": "Soused",
+    "description": "Woo! You earned the Soused badge! Hope you've got your drinkin' pants on. Even the most seasoned revellers would have trouble keeping up with you after 4 bar check-ins in one night!",
+    "requirement": "Check-in to 4 bars."
+  },
+  {
+    "name": "Statesman",
+    "description": "Whether by land, sea, air, or quantum leap, you don't just get there; you arrive. You check in no matter your state (of mind). East Coast? West Coast? It's all the Best Coast.",
+    "requirement": "Check-in to 10 places on the east coast and 10 places on the west coast."
+  },
+  {
+    "name": "Sushi Sensei",
+    "description": "Banzai! You just earned the Sushi Sensei badge for recently checking in to 6 sushi restaurants. Just go easy on the wasabi.",
+    "requirement": "Check-in to 6 sushi restaurants."
+  },
+  {
+    "name": "Tool Legit",
+    "description": "Let's take a second to laugh at the idiots trying to put together IKEA furniture with those stupid little tools that come in the bag.",
+    "requirement": "Check-in to 3 hardware stores."
+  },
+  {
+    "name": "Tree Hugger",
+    "description": "Congrats, hippie. Your visits to local Parks - along with the time spent rolling in the dirt, reading Ferlinghetti, and talking to squirrels - were not entirely pointless. While foraging around your urban oasis, you found a clue to your personal potential: this badge! Peace, mean.",
+    "requirement": "Check-in to 3 different parks."
+  },
+  {
+    "name": "True Yelper",
+    "description": "You check-in and you write reviews about those places. You're a true yelper, and we're proud of you.",
+    "requirement": "Check-in and review 20 places."
+  },
+  {
+    "name": "Unleashed",
+    "description": "Woof, intrepid yelper! You just earned the Unleashed badge. In case your four-legged friends haven't thanked you enough, here's an accolade even more impressive than Air Bud, Scooby-Doo and Hooch singing Rank Roo a capella! From tongue to tail, you're truly a Yelp's best friend. Go on... lap up the praise.",
+    "requirement": "Check-in to 3 dog parks."
+  },
+  {
+    "name": "Yelp BFF",
+    "description": "Lately we've been peeking through our telescope, and we noticed you've been sharing an orbit with a special someone. Congrats on your cosmic friendship. We're designating the two of you Yelp BFFs!",
+    "requirement": "Check-in at 5 different venues with the same yelp friend, with 3 different friends."
+  }
+]
