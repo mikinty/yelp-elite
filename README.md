@@ -15,6 +15,12 @@ more. These are essentially all check-in based, which are Yelp's way of
 tracking where you visit. Badges have notoriously been known for being
 inconsistent, often missing rewards or rewarding a user very late.
 
+**NOTE**: I don't have all the assets for the badges, so if you know where to get them, let me know!
+
+## TODO
+
+Talk about how to become Yelp Elite, and possible perks.
+
 ## Sources
 
 - I am a Yelp Elite user and have collected badges
