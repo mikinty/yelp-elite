@@ -1,0 +1,12 @@
+{
+  "short_name": "yelp-elite",
+  "name": "Yelp info",
+  "icons": [
+    {
+      "src": "./yelp_icon.png",
+      "type": "image/png",
+      "sizes": "95x94"
+    }
+  ],
+  "start_url": "."
+}
