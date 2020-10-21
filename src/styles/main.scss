@@ -15,11 +15,12 @@ html, body {
   display: flex;
   flex-direction: row;
   align-items: stretch;
-  width: 100%;
+  width: 100vw;
   max-width: 680px;
+  padding: 12px;
 
   &.middle-row {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
   }
 
   .badges-list-left {
@@ -46,7 +47,7 @@ html, body {
     flex-direction: column;
     justify-content: space-between;
     flex-grow: 2;
-    padding: 12px;
+    padding: 12px 0 12px 12px;
 
     .badges-list-requirement {
       margin-top: 12px;
