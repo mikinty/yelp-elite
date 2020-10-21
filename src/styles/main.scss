@@ -4,3 +4,52 @@ html, body {
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
   background-color: $BACKGROUND_COLOR;
 }
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.badges-list-row {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+  max-width: 680px;
+
+  &.middle-row {
+    border-bottom: 1px solid black;
+  }
+
+  .badges-list-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    padding: 12px 0 12px 12px;
+
+    .badges-list-title {
+      font-weight: bold;
+    }
+
+    .badges-list-icon {
+      img {
+        height: 144px;
+        padding: 12px;
+      }
+    }
+  }
+
+  .badges-list-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 2;
+    padding: 12px;
+
+    .badges-list-requirement {
+      margin-top: 12px;
+    }
+  }
+}
